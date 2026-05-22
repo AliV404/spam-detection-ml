@@ -29,8 +29,8 @@ built using Naive Bayes algorithm and TF-IDF feature engineering.
 ## Assignment Parts
 - ✅ Part 1 - Introduction & Data Loading
 - ✅ Part 2 - Feature Engineering (TF-IDF)
-- 🔲 Part 3 - Naive Bayes Algorithm (from scratch)
-- 🔲 Part 4 - Model Training
+- ✅ Part 3 - Naive Bayes Algorithm (from scratch)
+- ✅ Part 4 - Model Training
 - 🔲 Part 5 - Testing & Evaluation
 
 ## Author
