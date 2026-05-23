@@ -31,7 +31,7 @@ built using Naive Bayes algorithm and TF-IDF feature engineering.
 - ✅ Part 2 - Feature Engineering (TF-IDF)
 - ✅ Part 3 - Naive Bayes Algorithm (from scratch)
 - ✅ Part 4 - Model Training
-- 🔲 Part 5 - Testing & Evaluation
+- ✅ Part 5 - Testing & Evaluation
 
 ## Author
 Ali Valiyev. — ID: 5584048
